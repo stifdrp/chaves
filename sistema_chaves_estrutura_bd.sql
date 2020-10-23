@@ -105,6 +105,8 @@ ALTER TABLE `emprestimo`
 --
 ALTER TABLE `pessoa`
   ADD PRIMARY KEY (`id_pessoa`);
+
+ALTER TABLE `pessoa`
   ADD UNIQUE(`doc_identificacao`);
 
 --

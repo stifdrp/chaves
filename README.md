@@ -9,3 +9,4 @@ O sistema é usado para gerenciar o empréstimos de chaves da portaria
 
 ## Instruções de uso
 - Cadastre o primeiro usuário diretamente no banco com perfil 1
+- Para gerar a senha deste usuário, use o site https://phppasswordhash.com/
